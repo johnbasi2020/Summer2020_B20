@@ -45,7 +45,7 @@ public class BulkOperations_Practice {
 
         System.out.println(employees);
 
-        employees.retainAll(  Arrays.asList("Ahmed", "Dawud")  );
+        employees.retainAll(  Arrays.asList("Ahmed", "Dawud") );
         System.out.println(employees);
 
 
